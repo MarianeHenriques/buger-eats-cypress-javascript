@@ -1,0 +1,55 @@
+{
+
+ 
+    "sing_up":{
+        "name": "Mariane Henriques",
+        "cpf": "11122233344",
+        "email": "mariane.henriques@gmail.com",
+        "whatsapp": "777777777",
+        "address":{
+            "postalCode":"04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 154",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Mariane Henriques",
+        "cpf": "111222333bb",
+        "email": "mariane.henriques@gmail.com",
+        "whatsapp": "777777777",
+        "address":{
+            "postalCode":"04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 154",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv":{
+        "name": "Mariane Henriques",
+        "cpf": "11122233344",
+        "email": "mariane.henriques",
+        "whatsapp": "777777777",
+        "address":{
+            "postalCode":"04534011",
+            "street":"Rua Joaquim Floriano",
+            "number":"1000",
+            "details": "Ap 154",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+
+}
